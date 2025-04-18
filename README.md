@@ -3,5 +3,6 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/TopSoftdeveloper?style=flat)](#)
 [![GitHub forks](https://img.shields.io/github/forks/TopSoftdeveloper/TopSoftdeveloper?style=flat)](#)
 
-email: topsoftdeveloper@outlook.com
-telegram: https://t.me/somerwork
+- **Telegram**: [@worksnipz](https://t.me/worksnipz)
+- **Donate(BTC)**: bc1q43u0n865fuxc4j2vgm4wp98xuuaawgkgq8yrf4
+- **Email**: topsoftdeveloper@outlook.com
