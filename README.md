@@ -3,6 +3,5 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/TopSoftdeveloper?style=flat)](#)
 [![GitHub forks](https://img.shields.io/github/forks/TopSoftdeveloper/TopSoftdeveloper?style=flat)](#)
 
-- **Telegram**: [@somerwork](https://t.me/somerwork)
+- **Telegram**: [@reversecasino](https://t.me/reversecasino)
 - **Donate(BTC)**: bc1q43u0n865fuxc4j2vgm4wp98xuuaawgkgq8yrf4
-- **Email**: topsoftdeveloper@outlook.com
