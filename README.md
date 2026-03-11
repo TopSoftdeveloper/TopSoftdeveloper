@@ -9,3 +9,4 @@
 
 - **Telegram**: [@somerwork](https://t.me/somerwork)
 - **Donate(BTC)**: bc1q43u0n865fuxc4j2vgm4wp98xuuaawgkgq8yrf4
+- **Donate(ETH,BEP)**: 0xE666B0517cb1Ae95982a1a80fAC0C65Df86B789a
